@@ -1,5 +1,8 @@
 Source:
     https://github.com/stengaard/gosss
+    
+[![Build Status](https://travis-ci.org/stengaard/gosss.svg?branch=master)](https://travis-ci.org/stengaard/gosss)
+
 
 Stengaard's Secret Server
 -------------------------
